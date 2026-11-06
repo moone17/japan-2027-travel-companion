@@ -1,0 +1,25 @@
+{
+  "name": "Japan 2027 Travel Companion",
+  "short_name": "Japan 2027",
+  "description": "Your editable Japan winter travel planner",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#081a2b",
+  "theme_color": "#123b5b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
