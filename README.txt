@@ -1,4 +1,4 @@
-Japan 2027 Travel Companion v4.2
+Japan 2027 Travel Companion v4.2.1
 
 This version preserves the v4.1 itinerary, bookings, editing functions, route links, local data key and offline workflow. It refreshes the visual theme to an icy sky-blue winter-night palette and adds the new snowy J logo.
 
